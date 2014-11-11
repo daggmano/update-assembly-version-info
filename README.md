@@ -1,0 +1,2 @@
+update-assembly-version-info
+============================
